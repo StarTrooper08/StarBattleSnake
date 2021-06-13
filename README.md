@@ -1,0 +1,2 @@
+# StarBattleSnake
+BattleSnake Game api
